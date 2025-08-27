@@ -9,8 +9,8 @@ Con su habilidad especial de transformar la basura reciclada en energía ecológ
 ECOBOT deberá enfrentarse a desafíos cada vez más complejos mientras enseña a
 los jugadores conceptos clave de reciclaje y sostenibilidad.
 El jugador podrá recoger y clasificar residuos en los contenedores correctos,
-para avanzar deberá derrotar a los Monstruos de Basura y los desafíos
-incluirán batallas, rompecabezas y minijuegos educativos relacionados con el reciclaje.
+para avanzar deberá derrotar a los Monstruos de Basura como: el Titán Plástico, el Señor Humo Tóxico o la Bestia de los Metales Pesados, ellos intentarán detener a ECOBOT para que no pueda lograr su objetivo, ya que si lo logra ellos desaparecerán para siempre.
+Los desafíos incluirán batallas, rompecabezas y minijuegos educativos relacionados con el reciclaje.
 Los estudiantes avanzarán mediante un sistema de puntos verdes y recompensas.
 Cada nivel representa un concepto educativo ambiental (plástico, papel, vidrio, orgánicos, electrónicos, etc.), y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 Los jugadores aprenderán la clasificación de residuos mediante actividades de selección y minijuegos. Se reforzará la conciencia ecológica a través de misiones narrativas
@@ -18,4 +18,3 @@ y las evaluaciones se realizarán mediante un sistema de logros, estadísticas y
 El juego se desarrollará usando Unity y tendrá soporte para PC, Android y Web.
 Además, se implementarán características como animaciones dinámicas, efectos de sonido, guardado en la nube y modo multijugador cooperativo
 para garantizar una experiencia de juego fluida y atractiva.
-
