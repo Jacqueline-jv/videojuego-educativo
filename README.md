@@ -1,0 +1,21 @@
+EcoBot: La Batalla del Reciclaje es un videojuego educativo diseñado para enseñar Ecología, por medio de reciclaje y cuidado del medio ambiente
+a estudiantes de primaria a través de una experiencia inmersiva y muy emocionante.
+La historia se desarrolla en un planeta Tierra contaminado y cubierto de basura, un mundo lleno de misterios, desafíos y monstruos creados por desechos tóxicos que guiarán a los jugadores en su aprendizaje. Cada nivel del juego está diseñado para combinar diversión y educación, permitiendo que los estudiantes adquieran conocimientos de manera natural mientras exploran, resuelven problemas y superan obstáculos.
+El protagonista de esta aventura es ECOBOT, un pequeño robot recolector de basura con
+ojos luminosos, gran determinación y un fuerte sentido de la misión ambiental.
+ECOBOT es un guardián del planeta que ha sido elegido para una misión
+única: recoger la basura, reciclarla correctamente y devolverle la vida al planeta.
+Con su habilidad especial de transformar la basura reciclada en energía ecológica,
+ECOBOT deberá enfrentarse a desafíos cada vez más complejos mientras enseña a
+los jugadores conceptos clave de reciclaje y sostenibilidad.
+El jugador podrá recoger y clasificar residuos en los contenedores correctos,
+para avanzar deberá derrotar a los Monstruos de Basura y los desafíos
+incluirán batallas, rompecabezas y minijuegos educativos relacionados con el reciclaje.
+Los estudiantes avanzarán mediante un sistema de puntos verdes y recompensas.
+Cada nivel representa un concepto educativo ambiental (plástico, papel, vidrio, orgánicos, electrónicos, etc.), y los jugadores recibirán retroalimentación inmediata sobre su desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
+Los jugadores aprenderán la clasificación de residuos mediante actividades de selección y minijuegos. Se reforzará la conciencia ecológica a través de misiones narrativas
+y las evaluaciones se realizarán mediante un sistema de logros, estadísticas y panel de control para profesores, lo que permitirá medir el progreso de manera efectiva.
+El juego se desarrollará usando Unity y tendrá soporte para PC, Android y Web.
+Además, se implementarán características como animaciones dinámicas, efectos de sonido, guardado en la nube y modo multijugador cooperativo
+para garantizar una experiencia de juego fluida y atractiva.
+
